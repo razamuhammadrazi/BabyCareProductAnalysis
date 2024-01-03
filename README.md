@@ -1,2 +1,1 @@
-Description:
-Explore the financial landscape of Adidas through a comprehensive analysis and visualization of Profit and Loss (P&L) statements leveraging Bloomberg data. This project delves into dissecting Adidas' financial performance, shedding light on key insights and trends using advanced analytical tools.
+This comprehensive Excel project immerses you in the realm of critical analysis techniques applicable across diverse product portfolios within organizations. Harness the power of Excel's pivot tables and slicers to craft an all-encompassing report offering a 360-degree view of business performance.
